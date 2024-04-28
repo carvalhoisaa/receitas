@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Dancing+Script:wght@400..700&family=Pinyon+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Caveat:wght@400..700&family=Dancing+Script:wght@400..700&family=Libre+Caslon+Display&family=Pinyon+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Caveat:wght@400..700&family=Dancing+Script:wght@400..700&family=Libre+Caslon+Display&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Pinyon+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Caveat:wght@400..700&family=Dancing+Script:wght@400..700&family=Frank+Ruhl+Libre:wght@300..900&family=Libre+Caslon+Display&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Pinyon+Script&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #aa6f66;
+}
+header {
+    background-color:#6a3833;
+    padding: 5px;
+    text-align: center;
+  }
+  footer {
+    background-color:#6a3833;;
+    color: hsl(0, 0%, 100%);
+    padding: 3px 3px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+   .titulo{
+      font-family: "Dancing Script", cursive;
+      color: #fff8eb;
+     }
+     .subtitulo{
+        color: hwb(0 100% 0%);
+        font-family: "Frank Ruhl Libre", serif;
+      
+        /*font-family: "Libre Caslon Display", serif;*/
+     }
+     button {
+        padding: 10px 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 18px;
+        background-color: hsl(0, 0%, 100%);
+        border-color: #402521;
+        border-radius: 10px;
+        position: absolute;
+        top: 88%;
+        left: 94%;
+        transform: translate(-50%, -50%);
+        color: #402521;
+      }
+    
+     .bolo{
+        transition: all 0.5s;
+        cursor: pointer;
+    }
+    .bolo:hover{
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
+    .brownie{
+        transition: all 0.5s;
+        cursor: pointer;
+    }
+    .brownie:hover{
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
+    .pudim{
+        transition: all 0.5s;
+        cursor: pointer;
+    }
+    .pudim:hover{
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
+    .mousse{
+        transition: all 0.5s;
+        cursor: pointer;
+    }
+    .mousse:hover{
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
+    .brigadeiro{
+        transition: all 0.5s;
+        cursor: pointer;
+    }
+    .brigadeiro:hover{
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
+    mark{
+        background-color: hsl(8, 43%, 90%);
+    }
+    
+    
+    
